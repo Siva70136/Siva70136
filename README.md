@@ -1,7 +1,6 @@
 ## I'm Siva
 
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-3.6K+-blue.svg?&style=flat&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/hackerrank-brightgreen.svg?&style=flat&logo=hackerrank&logoColor=white" />][hackerrank]
 [<img height="30" src="https://img.shields.io/badge/leetcode-yellow.svg?&style=square&logo=leetcode&logoColor=white" />][leetcode]
 
@@ -51,7 +50,6 @@ I am a **Full Stack Developer** with a passion for creating efficient, scalable,
  [hackerrank]:https://www.hackerrank.com/Siva70136
  [gmail]: https://gmail.com
  [leetcode]: https://leetcode.com/siva_ch
- [geeksforgeeks]: 
 
 ---
 
