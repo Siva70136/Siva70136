@@ -40,38 +40,11 @@ I am a **Full Stack Developer** with a passion for creating efficient, scalable,
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Siva70136&theme=graywhite&show_icons=true&hide_border=false&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva70136&theme=graywhite&hide_border=false" />
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siva70136&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva70136&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Siva70136&theme=tokyonight&hide_border=true)
-
----
-
-## 🏆 Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Siva70136&theme=tokyonight&no-frame=true&row=1&column=6)
-
-# Hi, I'm Your Name 👋
-
-### GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Siva70136&show_icons=true)](https://github.com/Siva70136)
-
-### Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=Siva70136)
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva70136&layout=compact)](https://github.com/Siva70136)
 
 
  [linkedin]:https://www.linkedin.com/in/sivacheerla
