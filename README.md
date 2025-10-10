@@ -51,7 +51,6 @@ I am a **Full Stack Developer** with a passion for creating efficient, scalable,
   </tr>
 </table>
 
----
 
  [linkedin]:https://www.linkedin.com/in/sivacheerla
  [hackerrank]:https://www.hackerrank.com/Siva70136
