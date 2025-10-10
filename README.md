@@ -37,15 +37,22 @@ I am a **Full Stack Developer** with a passion for creating efficient, scalable,
 - **Cloud Platforms:** AWS
 
 
-
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siva70136&show_icons=true&theme=tokyonight)
+![GitHub Stats]()
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva70136&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Siva70136&theme=tokyonight&hide_border=true)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Siva70136&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Siva70136&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
  [linkedin]:https://www.linkedin.com/in/sivacheerla
  [hackerrank]:https://www.hackerrank.com/Siva70136
