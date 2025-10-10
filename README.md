@@ -39,10 +39,6 @@ I am a **Full Stack Developer** with a passion for creating efficient, scalable,
 
 ## 📊 GitHub Stats
 
-![GitHub Stats]()
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva70136&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Siva70136&theme=tokyonight&hide_border=true)
-
 <table>
   <tr>
     <td>
