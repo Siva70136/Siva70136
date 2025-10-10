@@ -49,11 +49,6 @@ I am a **Full Stack Developer** with a passion for creating efficient, scalable,
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva70136&theme=graywhite&hide_border=false" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva70136&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
-    </td>
-  </tr>
 </table>
 
 ---
